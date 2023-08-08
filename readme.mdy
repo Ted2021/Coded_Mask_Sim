@@ -1,0 +1,7 @@
+# Coded Mask Sim
+
+## Contents
+- Simfunc.py
+-- コーデッドマスクのシミュレーションのための関数群
+- Run_coded_mask.ipynb
+-- しミューレーションを実行したノートブック
